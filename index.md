@@ -86,8 +86,8 @@ sections:
     text: gregg@digitallobotomy.net
     url: mailto:gregg@digitallobotomy.net
   - title: Phone
-    text: "(000) 000-0000"
-    url: ''
+    text: "(305) 725-0948"
+    url: tel:+13057250948
   social:
     title: Social
     social_icons:
