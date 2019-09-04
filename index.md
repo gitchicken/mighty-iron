@@ -76,7 +76,7 @@ sections:
 - type: contact
   template: contact
   title: Get in touch
-  text: Have a question of comment for us? - Please feel free to use any of the methods
+  text: Have a question of comments? - Please feel free to use any of the methods
     below.
   section_id: three
   background_style: style1
