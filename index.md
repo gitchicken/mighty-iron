@@ -17,7 +17,7 @@ sidebar:
 sections:
 - type: intro
   template: intro
-  title: Hyperspace
+  title: Stanky Jigs&trade;
   subtitle: "Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  \ncol
     accumsan est arcu donec sed Eleifend Integer."
   section_id: intro
