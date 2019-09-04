@@ -23,8 +23,8 @@ sections:
   section_id: intro
   background_style: style1
   actions:
-  - label: Learn more
-    url: "#one"
+  - label: Like Us On Facebook
+    url: https://www.facebook.com/stankyjigs/
     is_scrolly: true
     is_primary: false
   component: intro.html
