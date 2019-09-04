@@ -24,7 +24,7 @@ sections:
   background_style: style1
   actions:
   - label: Like Us On Facebook
-    url: https://www.facebook.com/stankyjigs/
+    url: "#"
     is_scrolly: true
     is_primary: false
   component: intro.html
