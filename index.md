@@ -76,9 +76,8 @@ sections:
 - type: contact
   template: contact
   title: Get in touch
-  text: Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris,
-    eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum,
-    urna est aliquam sem, sit amet imperdiet est velit quis lorem.
+  text: Have a question of comment for us? - Please feel free to use any of the methods
+    below.
   section_id: three
   background_style: style1
   contact_list:
